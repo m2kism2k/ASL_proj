@@ -1,0 +1,8 @@
+mlflow
+cloudpickle
+numpy
+tensorflow
+keras
+streamlit
+uvicorn
+fastapi
